@@ -1,0 +1,16 @@
+F:\C#\ClassBank\bin\Debug\net5.0\ClassBank.exe
+F:\C#\ClassBank\bin\Debug\net5.0\ClassBank.deps.json
+F:\C#\ClassBank\bin\Debug\net5.0\ClassBank.runtimeconfig.json
+F:\C#\ClassBank\bin\Debug\net5.0\ClassBank.runtimeconfig.dev.json
+F:\C#\ClassBank\bin\Debug\net5.0\ClassBank.dll
+F:\C#\ClassBank\bin\Debug\net5.0\ref\ClassBank.dll
+F:\C#\ClassBank\bin\Debug\net5.0\ClassBank.pdb
+F:\C#\ClassBank\obj\Debug\net5.0\ClassBank.csproj.AssemblyReference.cache
+F:\C#\ClassBank\obj\Debug\net5.0\ClassBank.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\ClassBank\obj\Debug\net5.0\ClassBank.AssemblyInfoInputs.cache
+F:\C#\ClassBank\obj\Debug\net5.0\ClassBank.AssemblyInfo.cs
+F:\C#\ClassBank\obj\Debug\net5.0\ClassBank.csproj.CoreCompileInputs.cache
+F:\C#\ClassBank\obj\Debug\net5.0\ClassBank.dll
+F:\C#\ClassBank\obj\Debug\net5.0\ref\ClassBank.dll
+F:\C#\ClassBank\obj\Debug\net5.0\ClassBank.pdb
+F:\C#\ClassBank\obj\Debug\net5.0\ClassBank.genruntimeconfig.cache
